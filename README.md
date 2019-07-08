@@ -1,4 +1,4 @@
-# Bash-ManageServices
+# Bash-SaveSite
 
 Simple tool for saving an entire web-site folder to a timestamped bz2 archive.
 
