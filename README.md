@@ -24,7 +24,7 @@ This tool allows you to save a website directory, located in /var/www, to a time
 ```bash
 Usage: savesite.sh [options] <directory 1> [directory 2 ...]
 
-  <directory 1>   Configuration directory name located in /var/www
+  <directory 1>   Website directory name located in /var/www
 
 options
   -d | --destination    Destination folder. The default is /home/<user>
